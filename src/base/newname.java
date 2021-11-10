@@ -7,7 +7,9 @@ public class newname {
 			char charAt = s.charAt(i);
 		
 			System.out.print(charAt);
+	
 		}
+	System.out.println("java");
 	}
 
 }
